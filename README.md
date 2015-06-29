@@ -1,2 +1,2 @@
 # Guess
-A guessing game. Enter a number between 0 and 10
+A guessing game that requires you to input a number between 0 and 10
