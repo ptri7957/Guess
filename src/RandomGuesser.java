@@ -13,6 +13,10 @@ import javax.swing.JScrollPane;
 import javax.swing.JTextArea;
 import javax.swing.JTextField;
 
+/**
+ * @author Phillip Trinh
+ *
+ */
 public class RandomGuesser extends JFrame {
 
 	JTextField field;
